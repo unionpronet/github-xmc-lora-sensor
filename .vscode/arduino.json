@@ -1,0 +1,6 @@
+{
+    "output": "../build/github-xmc-lora-sensor",
+    "sketch": "github-xmc-lora-sensor.ino",
+    "configuration": "UART=debug,LIB=NONE",
+    "board": "Infineon:xmc:XMC1300_Boot_Kit"
+}
