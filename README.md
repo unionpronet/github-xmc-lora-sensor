@@ -41,16 +41,14 @@ note: Please refer to the GitHub repository https://github.com/unionpronet/githu
 
 note: Please refer to the GitHub repository https://github.com/unionpronet/github-esp32-lora-adapter for information about the hardware for the “Lora receiver” and “Android logger” portions.
 
-### image of "Solar Power Lora Sensor" portion for debug log setting
+### image of "Solar Power Lora Sensor" portion 
 [![XMC Lora Sensor (debug)](/images/xmc-lora-sensor-debug.jpg)](https://github.com/unionpronet/github-xmc-lora-sensor/blob/main/images/xmc-lora-sensor-debug.jpg)
-### Important: DO NOT mount the 3V3 LDO during debug log setting. Otherwise, it may result in permanently damage.
-
-### image of "Solar Power Lora Sensor" portion for release mode (field test)
-[![XMC Lora Sensor (release)](/images/xmc-lora-sensor-rel.jpg)](https://github.com/unionpronet/github-xmc-lora-sensor/blob/main/images/xmc-lora-sensor-rel.jpg)
 
 
 ### image of whole system for release mode (field test)
-[![TO BE available!!! system image](/images/system-rel.jpg)](https://github.com/unionpronet/github-xmc-lora-sensor/blob/main/images/system-rel.jpg)
+The "Solar Power Lora Sensor (XMC)" portion is shown on the bottom half.  
+The "Lora Receiver (ESP32)" portion is shown on the upper half.
+[![system image](/images/system-test.jpg)](https://github.com/unionpronet/github-xmc-lora-sensor/blob/main/images/system-test.jpg)
 
 ---
 ## Software setup
@@ -254,7 +252,13 @@ void loop()
 ---
 
 ### Video demo is available on  
-[TO BE available!!! xmc-lora-sensor video](https://www.youtube.com/watch?v=)  
+[xmc-lora-sensor video](https://youtu.be/yTs0bI0mfuo)  
+Setup Lora Receiver and Android APP during 0 - 8s.  
+Power on the "Solar Power Lora Sensor" on 9s.  
+The first sensors' data is received at 28s, and repeatedly receive every 5 seconds.
+
+
+
 
 ---
 ### Debug
