@@ -45,7 +45,7 @@ note: Please refer to the GitHub repository https://github.com/unionpronet/githu
 [![XMC Lora Sensor (debug)](/images/xmc-lora-sensor-debug.jpg)](https://github.com/unionpronet/github-xmc-lora-sensor/blob/main/images/xmc-lora-sensor-debug.jpg)
 
 
-### image of whole system for release mode (field test)
+### image of whole system 
 The "Solar Power Lora Sensor (XMC)" portion is shown on the bottom half.  
 The "Lora Receiver (ESP32)" portion is shown on the upper half.
 [![system image](/images/system-test.jpg)](https://github.com/unionpronet/github-xmc-lora-sensor/blob/main/images/system-test.jpg)
