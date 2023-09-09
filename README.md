@@ -50,6 +50,9 @@ The "Solar Power Lora Sensor (XMC)" portion is shown on the bottom half.
 The "Lora Receiver (ESP32)" portion is shown on the upper half.
 [![system image](/images/system-test.jpg)](https://github.com/unionpronet/github-xmc-lora-sensor/blob/main/images/system-test.jpg)
 
+### image of Lora data received on Android APP
+[![ESP32 Lora Adapter](/images/bluetooth-serial-screen.jpg)](https://github.com/unionpronet/github-xmc-lora-sensor/blob/main/images/bluetooth-serial-screen.jpg) 
+
 ---
 ## Software setup
 1. Install [Arduino IDE 2.0+ for Arduino](https://www.arduino.cc/en/Main/Software)
