@@ -260,6 +260,12 @@ Setup Lora Receiver and Android APP during 0 - 8s.
 Power on the "Solar Power Lora Sensor" on 9s.  
 The first sensors' data is received at 28s, and repeatedly receive every 5 seconds.
 
+Example of Lora data in json format  
+  {"event":"eventSensor","arg0":664,"arg1":32.25,"arg2":99268.41}  
+where  
+  arg0 = CO2 ppm value  
+  arg1 = temperature value in degree C  
+  arg2 = pressure value in Pascal
 
 
 
