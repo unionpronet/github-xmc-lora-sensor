@@ -59,9 +59,10 @@ The "Lora Receiver (ESP32)" portion is shown on the upper half.
 2. Install [Infineon's XMC Microcontroller Boards for Arduino](https://github.com/Infineon/XMC-for-Arduino) for [XMC1300 Boot Kit]
 3. Install [XENSIV™ Digital Pressure Sensor Arduino Library](https://github.com/Infineon/arduino-xensiv-dps3xx)
 4. Install [XENSIV™ PAS CO2 Sensor Arduino Library](https://github.com/Infineon/arduino-pas-co2-sensor)
-5. Install [Arduino DebugLog lib](https://www.arduino.cc/reference/en/libraries/debuglog/)
-6. Install [Arduino RadioLib](https://www.arduino.cc/reference/en/libraries/radiolib/)
-7. Install [Arduino MemStream lib](https://github.com/Apollon77/MemStream)
+5. Install [ArduinoJson lib](https://www.arduino.cc/reference/en/libraries/arduinojson/)
+6. Install [Arduino DebugLog lib](https://www.arduino.cc/reference/en/libraries/debuglog/)
+7. Install [Arduino RadioLib](https://www.arduino.cc/reference/en/libraries/radiolib/)
+8. Install [Arduino MemStream lib](https://github.com/Apollon77/MemStream)
 
 
 ## Modify Arduino XMC package files
@@ -251,7 +252,6 @@ void loop()
 }
 ```
 ### Please refer to "github-xmc-lora-sensor.ino" for complete code
-## *** source code will be available in B/Nov ***
 ---
 
 ### Video demo is available on  
